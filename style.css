@@ -38,7 +38,8 @@ body {
 
 .card-form {
   max-width: 570px;
-  margin: 0 auto;
+  margin: auto;
+  width: 100%;
 }
 
 @media screen and (max-width: 576px) {
